@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 import java.util.Objects;
 
 
-public class application extends Application {
+public class Todolistapplication extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
