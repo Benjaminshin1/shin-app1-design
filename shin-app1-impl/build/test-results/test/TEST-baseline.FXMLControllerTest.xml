@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="baseline.FXMLControllerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-10-24T22:44:02" hostname="DESKTOP-B5D0G6J" time="0.014">
+<testsuite name="baseline.FXMLControllerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-11-07T23:44:18" hostname="DESKTOP-B5D0G6J" time="0.026">
   <properties/>
-  <testcase name="edit_title()" classname="baseline.FXMLControllerTest" time="0.009"/>
-  <testcase name="edit_date()" classname="baseline.FXMLControllerTest" time="0.001"/>
-  <testcase name="add_to_list()" classname="baseline.FXMLControllerTest" time="0.0"/>
-  <testcase name="save_file()" classname="baseline.FXMLControllerTest" time="0.0"/>
-  <testcase name="edit_description()" classname="baseline.FXMLControllerTest" time="0.0"/>
-  <testcase name="load_data()" classname="baseline.FXMLControllerTest" time="0.0"/>
-  <testcase name="display_specific_list()" classname="baseline.FXMLControllerTest" time="0.001"/>
-  <testcase name="remove_from_list()" classname="baseline.FXMLControllerTest" time="0.0"/>
-  <testcase name="mark_complete_incomplete()" classname="baseline.FXMLControllerTest" time="0.0"/>
+  <testcase name="add_to_list()" classname="baseline.FXMLControllerTest" time="0.023"/>
+  <testcase name="testRemove_from_list()" classname="baseline.FXMLControllerTest" time="0.001"/>
+  <testcase name="remove_all()" classname="baseline.FXMLControllerTest" time="0.0"/>
+  <testcase name="testDisplay_specific_list()" classname="baseline.FXMLControllerTest" time="0.001"/>
+  <testcase name="edit_object()" classname="baseline.FXMLControllerTest" time="0.001"/>
+  <testcase name="display_completed()" classname="baseline.FXMLControllerTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

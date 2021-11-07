@@ -1,17 +1,21 @@
 package baseline;
 
-import java.time.LocalDate;
+import javafx.beans.property.BooleanProperty;
+import javafx.beans.property.SimpleBooleanProperty;
+import javafx.beans.value.ObservableBooleanValue;
 
+import java.time.LocalDate;
+//constructor for creating each task in a todo list
 public class Newtodo {
     private String description;
     private LocalDate date;
-    private Boolean status;
+    private BooleanProperty status= new SimpleBooleanProperty(true);
+
 
 
     public String getDescription(){
         return description;
     }
-
     public void setDescription(String description){
         this.description=description;
     }
@@ -19,15 +23,15 @@ public class Newtodo {
     public LocalDate getDate(){
         return date;
     }
-
     public void setDate(LocalDate date){
         this.date=date;
     }
 
+
     public void setStatus(Boolean status){
-        this.status=status;
+        this.status.set(status);
     }
-    public Boolean getStatus(){
+    public ObservableBooleanValue getStatus(){
         return status;
     }
 
@@ -38,7 +42,8 @@ public class Newtodo {
     }
     @Override
     public String toString(){
-        return   this.getDate() + " "+ this.getDescription();
+        //returns the input from text box to readable string for date and description
+        return this.getDate() + " "+ this.getDescription();
 
     }
 

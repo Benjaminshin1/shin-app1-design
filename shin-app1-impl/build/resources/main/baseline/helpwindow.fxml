@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<SplitPane dividerPositions="0.7662889518413598" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="475.0" prefWidth="708.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="baseline.helpwindowController">
+   <items>
+      <TextArea fx:id="textbox" prefHeight="432.0" prefWidth="369.0" promptText="" />
+      <AnchorPane prefHeight="379.0" prefWidth="154.0">
+         <children>
+            <Button fx:id="adding_a_task" layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#addingatask" text="adding a task" AnchorPane.rightAnchor="96.0" />
+            <Button fx:id="filter_a_list" layoutX="14.0" layoutY="51.0" mnemonicParsing="false" onAction="#filteringalist" text="filter a list" />
+            <Button fx:id="saving_and_loading" layoutX="14.0" layoutY="91.0" mnemonicParsing="false" onAction="#savingandloading" text="saving and loading a list" />
+            <Button fx:id="deleting_an_item" layoutX="14.0" layoutY="134.0" mnemonicParsing="false" onAction="#deletinganitem" text="deleting an item" />
+            <Button fx:id="editing_a_task" layoutX="14.0" layoutY="180.0" mnemonicParsing="false" onAction="#editingatask" text="editing a task on a list" />
+         </children>
+      </AnchorPane>
+   </items>
+</SplitPane>

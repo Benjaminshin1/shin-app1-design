@@ -1,6 +1,9 @@
 @startuml
-
 class Todolistapplication{
++start()
++main()
+}
+class FXMLController{
 
 -add_date:string
 -add_description:string
@@ -27,20 +30,42 @@ class Todolistapplication{
 +edit_title()
 +edit_description()
 +save_file()
++save()
 +display_specific_list()
-+mark_complete_incomplete()
++show_all()
++display_completed()
 +load_data()
-+setStatus(Boolean status)
++load_help_window()
 }
 
 class Newtodo{
--Localdate date()
--String description()
--Boolean status()
+-Localdate date
+-String description
+-BooleanProperty status
 --
 +getdescription(String description)
++setdescription()
 +getDate(Localdate date)
++setdate()
++getstatus()
 +setStatus(Boolean status))
 }
- Todolistapplication<-Newtodo
+ FXMLController<-Newtodo
+ FXMLController<-helpwindowController
+ Todolistapplication<-FXMLController
+
+
+ class helpwindowController{
+     -TextArea textbox
+     -Button adding_a_task
+     -Button deleting_an_item
+     -Button editing_a_task
+     -Button filter_a_list
+     -Button saving_and_loading
+     +addingatask()
+     +deletinganitem()
+     +editingatask()
+     +filteringalist()
+     +savingandloading()
+ }
 @enduml

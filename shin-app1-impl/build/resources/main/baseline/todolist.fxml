@@ -51,27 +51,27 @@
             <TextField fx:id="add_description" layoutX="305.0" layoutY="34.0" prefHeight="35.0" prefWidth="547.0" promptText="Add task here" />
             <MenuButton fx:id="dropdown_list" layoutX="2.0" layoutY="77.0" mnemonicParsing="false" text="list view">
               <items>
-                <MenuItem fx:id="show_all" mnemonicParsing="false" text="show all" />
-                <MenuItem fx:id="show_completed" mnemonicParsing="false" text="show completed" />
-                  <MenuItem fx:id="show_incompleted" mnemonicParsing="false" text="show incompleted" />
+                <MenuItem fx:id="show_all" mnemonicParsing="false" onAction="#showall" text="show all" />
+                <MenuItem fx:id="show_completed" mnemonicParsing="false" onAction="#display_completed" text="show completed" />
+                  <MenuItem fx:id="show_incompleted" mnemonicParsing="false" onAction="#display_specific_list" text="show incompleted" />
               </items>
             </MenuButton>
             <MenuButton fx:id="file_options" layoutX="82.0" layoutY="77.0" mnemonicParsing="false" text="file">
               <items>
-                  <MenuItem fx:id="delete_list" mnemonicParsing="false" text="delete list" />
-                <MenuItem fx:id="save_button" mnemonicParsing="false" text="save as" />
+                  <MenuItem fx:id="delete_list" mnemonicParsing="false" onAction="#remove_all" text="delete list" />
+                <MenuItem fx:id="save_button" mnemonicParsing="false" onAction="#save_file" text="save as" />
                 <MenuItem fx:id="open_saved" mnemonicParsing="false" text="open saved" />
               </items>
             </MenuButton>
-            <Button fx:id="delete_item" layoutX="137.0" layoutY="77.0" mnemonicParsing="false" text="delete item" />
-            <Button fx:id="help_button" layoutX="800.0" layoutY="69.0" mnemonicParsing="false" text="help" />
+            <Button fx:id="delete_item" layoutX="137.0" layoutY="77.0" mnemonicParsing="false" onAction="#remove_from_list" text="delete item" />
+            <Button fx:id="help_button" layoutX="800.0" layoutY="69.0" mnemonicParsing="false" onAction="#load_help_window" text="help" />
          </children>
       </AnchorPane>
       <TableView fx:id="table_view" prefHeight="423.0" prefWidth="866.0">
         <columns>
-          <TableColumn fx:id="status_col" prefWidth="96.0" text="status" />
+          <TableColumn fx:id="status_col" prefWidth="96.0" text="complete?" />
           <TableColumn fx:id="date_col" prefWidth="147.0" text="date" />
-            <TableColumn fx:id="description_col" prefWidth="448.0" text="description" />
+            <TableColumn fx:id="description_col" prefWidth="623.0" text="description" />
         </columns>
       </TableView>
    </items>

@@ -5,59 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f345223b-6439-45ce-bcce-c8a8e2ae8195" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/7.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/classes/java/main/baseline/FXMLController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/classes/java/main/baseline/Newtodo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/classes/java/main/baseline/Todolistapplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/classes/java/test/baseline/FXMLControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/classes/baseline.FXMLControllerTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/reports/tests/test/packages/baseline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/resources/main/baseline/todolist.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/test-results/test/TEST-baseline.FXMLControllerTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/docs/diagram.puml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/src/main/java/baseline/FXMLController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/src/main/java/baseline/Newtodo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/src/main/java/baseline/Todolistapplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/src/main/resources/baseline/todolist.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shin-app1-design/src/test/java/baseline/FXMLControllerTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.io.FileOutputStream@46fd1e60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseline/helpwindowController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/baseline/helpwindow.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/baseline/testcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13d9abee83160abb5a262120844ac5c6140015bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/baseline/FXMLController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/baseline/FXMLController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/baseline/Newtodo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/baseline/Newtodo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/baseline/FXMLControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/baseline/FXMLControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/baseline.FXMLControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/baseline.FXMLControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/baseline.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/baseline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/baseline/todolist.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/baseline/todolist.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-baseline.FXMLControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-baseline.FXMLControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/diagram.puml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/diagram.puml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/FXMLController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/FXMLController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baseline/Newtodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baseline/Newtodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/baseline/todolist.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/baseline/todolist.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseline/FXMLControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseline/FXMLControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +128,7 @@
       <recent name="baseline" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Todolistapplication">
+  <component name="RunManager" selected="Gradle.FXMLControllerTest">
     <configuration name="Todolistapplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baseline.Todolistapplication" />
       <module name="shin-app1-impl.main" />
@@ -189,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Todolistapplication" />
         <item itemvalue="Gradle.FXMLControllerTest" />
+        <item itemvalue="Application.Todolistapplication" />
       </list>
     </recent_temporary>
   </component>
